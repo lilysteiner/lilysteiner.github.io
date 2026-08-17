@@ -1,5 +1,4 @@
-remote-theme: hitchens-theme
+theme: jekyll-theme-minimal
 title: lily's brain
 description: matters and musings
-plugins:
-  - jekyll-remote-theme
+
