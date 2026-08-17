@@ -1,3 +1,5 @@
 remote-theme: hitchens-theme
 title: lily's brain
 description: matters and musings
+plugins:
+  - jekyll-remote-theme
